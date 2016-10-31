@@ -1,0 +1,28 @@
+
+- time: 2014 - 2016
+  activity: "
+      <ul  style=\"font-size:14px; line-height:150%; padding:0; padding-left:18px;\" >
+          <li>Master of Science (CS), Indiana University Bloomington<br>Thesis Advisor:  Professor <a href=\"https://www.cs.indiana.edu/~djcran/\">David Crandall</a></li>
+          <li>Research Assistant at Computer Vision Lab</li>
+          <li>Associate Instructor of Introduction to Programming(A201)</li>
+      </ul>
+      <span style=\"font-size:14px;\">Computer Vision, Deep Learning and Machine Learning</span>"
+  time-padding-top: 63px;
+
+- time: Summer 2015
+  activity: <span style="font-size:14px;">Software Development Intern at <a href="https://searsholdings.com"> Sears Holding </a><br>Computer Vision, Deep Learning, Api Development</span>
+  time-padding-top: 30px;
+  align: left
+
+- time: 2012 - 2014
+  activity: <span style="font-size:14px;">Software Engineer at <a href="http://www.toshiba-tsip.com/tsip/">Toshiba R&D</a><br>Cloud Computing, Virtualization, Software Development</span>
+  time-padding-top: 28px;
+
+- time: 2010 - 2012
+  activity: <span style="font-size:14px;">Software Engineer at <a href="https://www.cgi.com/en/india">CGI</a><br>Software Development</span>
+  time-padding-top: 28px;
+
+- time: 2006-2010
+  activity: <span style="font-size:14px;">Bachelor of Technology, College of Engineering, Roorkee<br>Computer Science, Electronics Engineering</span>
+  time-padding-top: 30px;
+  align: left

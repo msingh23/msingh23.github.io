@@ -1,0 +1,515 @@
+- paper: Ciregan, Dan, Ueli Meier, and Jürgen Schmidhuber. <b>Multi-Column Deep Neural Networks for Image Classification</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012.
+  date: 
+  link: http://arxiv.org/pdf/1202.2745.pdf
+
+- paper: Ma, Minghuang, Haoqi Fan, and Kris M. Kitani. <b>Going Deeper into First-Person Activity Recognition</b>. arXiv preprint arXiv:1605.03688 (2016).
+  date: 
+  link: http://arxiv.org/pdf/1605.03688.pdf
+
+- paper: "Yu, Rui, et al. <b>Direct, Dense, and Deformable: Template-Based non-Rigid 3D Reconstruction from RGB Video</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 4/26/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yu_Direct_Dense_and_ICCV_2015_paper.pdf
+
+- paper: "Bailer, Christian, Bertram Taetz, and Didier Stricker. <b>Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 4/26/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Bailer_Flow_Fields_Dense_ICCV_2015_paper.pdf
+
+- paper: "Redmon, Joseph, et al. <b>You Only Look Once: Unified, Real-Time Object Detection</b>. arXiv preprint arXiv:1506.02640 (2015)."
+  date: 4/19/2016
+  link: http://arxiv.org/pdf/1506.02640.pdf
+
+- paper: "Song, Yale, et al. <b>TVSum: Summarizing Web Videos using Titles</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015."
+  date: 4/19/2016
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf	
+
+- paper: John, Vijay, et al. <b>Pedestrian Detection in Thermal Images using Adaptive Fuzzy C-Means Clustering and Convolutional Neural Networks</b>. IAPR Conference on Machine Vision Applications (IAPR MVA) 2015.
+  date: 
+  link: http://www.mva-org.jp/Proceedings/2015USB/papers/10-03.pdf
+
+- paper: Zhang, Li, Bo Wu, and Ram Nevatia. <b>Pedestrian Detection in Infrared Images Based on Local Shape Features</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2007.
+  date: 
+  link: http://iris.usc.edu/outlines/papers/2007/zhang-nev-wu-otcbvs07.pdf
+
+- paper: Nanda, Harsh, and Larry Davis. <b>Probabilistic Template Based Pedestrian Detection in Infrared Videos</b>. IEEE Intelligent Vehicle Symposium 2002.
+  date: 
+  link: http://cvl.umiacs.umd.edu/projects/peddetect/templateMatching/publications/iv2002.pdf
+
+- paper: "Bertozzi, Massimo, et al. <b>Pedestrian Detection for Driver Assistance using Multiresolution Infrared Vision</b>. IEEE Transactions on Vehicular Technology 2004."
+  date: 
+  link: https://pdfs.semanticscholar.org/b676/ed0cc4e1870920e7469e227aa72edff16f1f.pdf
+
+- paper: Krause, Jonathan, et al. <b>The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition</b>. arXiv preprint arXiv:1511.06789 (2015).
+  date: 4/12/2016
+  link: http://arxiv.org/pdf/1511.06789v1.pdf
+
+- paper: Weyand, Tobias, Ilya Kostrikov, and James Philbin. <b>Planet-Photo Geolocation with Convolutional Neural Networks</b>. arXiv preprint arXiv:1602.05314 (2016).
+  date: 4/12/2016
+  link: http://arxiv.org/pdf/1602.05314v1.pdf	
+
+- paper: Zhang, Richard, Phillip Isola, and Alexei A. Efros. <b>Colorful Image Colorization</b>. arXiv preprint arXiv:1603.08511 (2016).
+  date: 4/5/2016
+  link: http://arxiv.org/pdf/1603.08511.pdf
+
+- paper: Huang, Gao, et al. <b>Deep Networks with Stochastic Depth</b>. arXiv preprint arXiv:1603.09382 (2016).
+  date: 4/5/2016
+  link: http://arxiv.org/pdf/1603.09382v1.pdf	
+
+- paper: Yonetani, Ryo, Kris M. Kitani, and Yoichi Sato. <b>Ego-surfing First Person Videos</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 3/29/2016
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.pdf
+
+- paper: "Poleg, Yair, et al. <b>Egosampling: Fast-Forward and Stereo for Egocentric Videos</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015."
+  date: 3/29/2016
+  link: http://arxiv.org/abs/1412.3596	
+
+- paper: Dubey, Rachit, et al. <b>What Makes an Object Memorable?</b> IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 3/22/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dubey_What_Makes_an_ICCV_2015_paper.pdf
+
+- paper: "Meyers, Austin, et al. <b>Im2Calories: Towards an Automated Mobile Vision Food Diary</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 3/22/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf	
+
+- paper: Park, Hyun Soo, Yedong Niu, and Jianbo Shi. <b>Future Localization from an Egocentric Depth Image</b>. arXiv preprint arXiv:1509.02094 (2015).
+  date: 3/8/2016
+  link: http://arxiv.org/pdf/1509.02094v1.pdf
+
+- paper: Walker, Jacob, Abhinav Gupta, and Martial Hebert. <b>Dense Optical Flow Prediction from a Static Image</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 3/8/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Walker_Dense_Optical_Flow_ICCV_2015_paper.pdf	
+
+- paper: Ikehata, Satoshi, Hang Yang, and Yasutaka Furukawa. <b>Structured Indoor Modeling</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 3/1/2016
+  link: http://www.cs.wustl.edu/~furukawa/papers/iccv_2015.pdf
+
+- paper: Xie, Saining, and Zhuowen Tu. <b>Holistically-Nested Edge Detection</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 3/1/2016
+  link: http://arxiv.org/pdf/1504.06375v2.pdf	
+
+- paper: "Kuo, Weicheng, Bharath Hariharan, and Jitendra Malik. <b>Deepbox: Learning Objectness with Convolutional Networks</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 2/23/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kuo_DeepBox_Learning_Objectness_ICCV_2015_paper.pdf
+
+- paper: He, Shengfeng, and Rynson WH Lau. <b>Oriented Object Proposals</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 2/23/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Oriented_Object_Proposals_ICCV_2015_paper.pdf	
+
+- paper: "Chandrasekaran, Arjun, et al. <b>We are Humor Beings: Understanding and Predicting Visual Humor</b>. arXiv preprint arXiv:1512.04407 (2015)."
+  date: 2/16/2016
+  link: http://arxiv.org/abs/1512.04407
+
+- paper: "Kottur, Satwik, et al. <b>Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings using Abstract Scenes.</b> arXiv preprint arXiv:1511.07067 (2015)."
+  date: 2/16/2016
+  link: http://arxiv.org/abs/1511.07067	
+
+- paper: "Chen, Chenyi, et al. <b>Deepdriving: Learning Affordance for Direct Perception in Autonomous Driving</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 2/9/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Chen_DeepDriving_Learning_Affordance_ICCV_2015_paper.pdf
+
+- paper: "Silver, David, et al. <b>Mastering the game of Go with Deep Neural Networks and Tree Search</b>. Nature 529.7587, 2016"
+  date: 2/9/2016
+  link: https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf
+
+- paper: Luo, Ye, Loong-Fah Cheong, and An Tran. <b>Actionness-Assisted Recognition of Actions</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 2/2/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Luo_Actionness-Assisted_Recognition_of_ICCV_2015_paper.pdf
+
+- paper: Sun, Lin, et al. <b>Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 2/2/2016
+  link: http://arxiv.org/pdf/1510.00562.pdf	
+
+- paper: Xiaolong Wang, and Abhinav Gupta. <b>Unsupervised Learning of Visual Representations using Videos</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 1/12/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Unsupervised_Learning_of_ICCV_2015_paper.pdf
+
+- paper: Doersch, Carl, Abhinav Gupta, and Alexei A. Efros. <b>Unsupervised Visual Representation Learning by Context Prediction</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 1/12/2016
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.pdf	
+
+- paper: Wan, Li, et al. <b>Regularization of Neural Networks using DropConnect</b>. International Conference on Machine Learning (ICML) 2013.
+  date: 
+  link: http://machinelearning.wustl.edu/mlpapers/paper_files/icml2013_wan13.pdf
+
+- paper: Koppula, Hema S., and Ashutosh Saxena. <b>Physically Grounded Spatio-Temporal Object Affordances</b>. European Conference on Computer Vision (ECCV) 2014.
+  date: 11/19/2015
+  link: http://www.cs.cornell.edu/~hema/papers/affordances_ECCV_2014.pdf
+
+- paper: M. Marszalek, I. Laptev, and C. Schmid. <b>Actions in Context</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2009.
+  date: 11/19/2015
+  link: https://lear.inrialpes.fr/pubs/2009/MLS09/MarszalekLaptevSchmid-CVPR09-ActionsContext.pdf
+
+- paper: "A. Gupta and L. Davis. <b>Objects in Action: An Approach for Combining Action Understanding and Object Perception</b>.IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2007."
+  date: 11/19/2015
+  link: http://www.cs.cmu.edu/~abhinavg/papers/cvpr_2007.pdf
+
+- paper: Jain, Mihir, Jan C. van Gemert, and Cees GM Snoek. <b>What do 15,000 Object Categories tell us about Classifying and Localizing Actions?</b> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 11/17/2015
+  link: http://www.researchgate.net/profile/Cees_Snoek/publication/275407115_What_do_15000_object_categories_tell_us_about_classifying_and_localizing_actions/links/553b7e5c0cf2c415bb093ec0.pdf
+
+- paper: Wang, Limin, Yu Qiao, and Xiaoou Tang. <b>Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 11/17/2015
+  link: http://arxiv.org/abs/1505.04868v1
+
+- paper: Y. J. Lee and K. Grauman. <b>Object-Graphs for Context-Aware Category Discovery</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2010.
+  date: 11/17/2015
+  link: http://vision.cs.utexas.edu/projects/objectgraph/lee_objectgraph_cvpr2010.pdf
+
+- paper: D. Hoiem, A.A. Efros, and M. Hebert. <b>Putting Objects in Perspective</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2006.
+  date: 11/17/2015
+  link: http://dhoiem.cs.illinois.edu/publications/hoiem_cvpr06.pdf
+
+- paper: D. Lin, S. Fidler, and R. Urtasun. <b>Holistic Scene Understanding for 3D Object Detection with RGBD cameras</b>. IEEE International Conference on Computer Vision (ICCV) 2013.
+  date: 
+  link: 
+
+- paper: "A. Gupta, A. Efros, and M. Hebert. <b>Blocks World Revisited: Image Understanding using Qualitative Geometry and Mechanics</b>. European Conference on Computer Vision (ECCV) 2010."
+  date: 11/12/2015
+  link: http://www.cs.cmu.edu/~abhinavg/blocksworld/blocksworld.pdf
+
+- paper: Lyu, Qi, Zhiyong Wu, and Jun Zhu. <b>Polyphonic Music Modelling with LSTM-RTRBM</b>. ACM International Conference on Multimedia (ACMMM) 2015.
+  date: 11/10/2015
+  link: http://dl.acm.org/citation.cfm?id=2806383
+
+- paper: "Boulanger-Lewandowski, Nicolas, Yoshua Bengio, and Pascal Vincent. <b>Modeling Temporal Dependencies in High-Dimensional Sequences: Application to Polyphonic Music Generation and Transcription</b>. arXiv preprint arXiv:1206.6392 (2012)."
+  date: 11/10/2015
+  link: http://arxiv.org/pdf/1206.6392.pdf
+
+- paper: "A. Saxena, M. Sun and A. Y. Ng. <b>Make3D: Learning 3D Scene Structure from a Single Still Image</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2009."
+  date: 11/10/2015
+  link: http://www.cs.cornell.edu/~asaxena/reconstruction3d/saxena_make3d_learning3dstructure.pdf
+
+- paper: "A. Fathi, J. Hodgins, J. Rehg. <b>Social Interactions: A First-Person Perspective</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012."
+  date: 11/5/2015
+  link: http://ai.stanford.edu/~alireza/publication/CVPR12.pdf
+
+- paper: Zhang, Ning, et al. <b>Part-Based R-CNNs for Fine-Grained Category Detection</b>. European Conference on Computer Vision (ECCV) 2014.
+  date: 
+  link: http://arxiv.org/pdf/1407.3867.pdf
+
+- paper: Girshick, Ross. <b>Fast R-CNN</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 11/3/2015
+  link: http://arxiv.org/abs/1504.08083	
+
+- paper: "Nguyen, Anh, Jason Yosinski, and Jeff Clune. <b>Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015."
+  date: 11/3/2015
+  link: http://arxiv.org/abs/1412.1897
+
+- paper: Y. Yang et al. <b>Robot Learning Manipulation Action Plans by “Watching” Unconstrained Videos from the World Wide Web</b>. AAAI 2015.
+  date: 11/3/2015
+  link: http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf
+
+- paper: K. Lee et al. <b>A Syntactic Approach to Robot Imitation Learning using Probabilistic Activity Grammars</b>. RAS 2013.
+  date: 11/3/2015
+  link: http://www.iis.ee.ic.ac.uk/icvl/doc/ras13_pub.pdf
+
+- paper: "P. Das et al. <b>A Thousand Frames in Just a Few Words: Lingual Description of Videos through Latent Topics and Sparse Object Stitching</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2013."
+  date: 10/29/2015
+  link: http://www.cse.buffalo.edu/~jcorso/pubs/jcorso_CVPR2013_dpmtm.pdf
+
+- paper: "M. S. Ryoo et al. <b>Robot-Centric Activity Prediction from First-Person Videos: What Will They Do to Me?</b> HRI 2015."
+  date: 
+  link: 
+
+- paper: Karpathy, Andrej, and Li Fei-Fei. <b>Deep Visual-Semantic Alignments for Generating Image Descriptions</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 10/27/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf
+
+- paper: "Gregor, Karol, et al. <b>DRAW: A Recurrent Neural Network for Image Generation</b>. arXiv preprint arXiv:1502.04623 (2015)."
+  date: 10/27/2015
+  link: http://arxiv.org/abs/1502.04623
+
+- paper: "M. S. Ryoo and L. Matthies. <b>First-Person Activity Recognition: What Are They Doing to Me?</b> IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2013."
+  date: 10/27/2015
+  link: http://michaelryoo.com/papers/cvpr2013_ryoo.pdf
+
+- paper: K. M. Kitani, T. Okabe, Y. Sato, and A. Sugimoto. <b>Fast Unsupervised Ego-action Learning for First-Person Sports Videos</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2011.
+  date: 10/22/2015
+  link: http://www.cs.cmu.edu/~kkitani/pdf/KOSS-CVPR11.pdf
+
+- paper: Y. J. Lee, J. Ghosh, and K. Grauman. <b>Discovering Important People and Objects for Egocentric Video Summarization</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012.
+  date: 10/22/2015
+  link: http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf
+
+- paper: Fathi, Alireza, Xiaofeng Ren, and James M. Rehg. <b>Learning to Recognize Objects in Egocentric Activities</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2011.
+  date: 
+  link: https://smartech.gatech.edu/bitstream/handle/1853/44559/CVPR11.pdf
+
+- paper: Branson, Steve, et al. <b>Bird Species Categorization using Pose Normalized Deep Convolutional Nets</b>. arXiv preprint arXiv:1406.2952 (2014).
+  date: 
+  link: http://arxiv.org/pdf/1406.2952.pdf
+
+- paper: Yang, Yezhou, et al. <b>Robot Learning Manipulation Action Plans by "Watching" Unconstrained Videos from the World Wide Web</b>. AAAI 2015.
+  date: 10/20/2015
+  link: http://w.basicknowledge101.com/pdf/Robot%20Learning.pdf
+
+- paper: "Aksoy, Eren Erdal, Minija Tamosiunaite, and Florentin Wörgötter. <b>Model-Free Incremental Learning of the Semantics of Manipulation Actions</b>. Robotics and Autonomous Systems 2015."
+  date: 10/20/2015
+  link: http://www.researchgate.net/profile/Eren_Aksoy/publication/268578763_Model-free_incremental_learning_of_the_semantics_of_manipulation_actions/links/547448830cf29afed60f7202.pdf
+
+- paper: H. Pirsiavash and D. Ramanan. <b>Detecting Activities of Daily Living in First-Person Camera Views</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012.
+  date: 10/20/2015
+  link: http://www.csee.umbc.edu/~hpirsiav/papers/adl_cvpr12.pdf
+
+- paper: A. Fathi, A. Farhadi, and J. M. Rehg. <b>Understanding Egocentric Activities</b>. IEEE International Conference on Computer Vision (ICCV) 2011.
+  date: 10/15/2015
+  link: http://ai.stanford.edu/~alireza/publication/ICCV11.pdf
+
+- paper: J. Donahue et al. <b>Long-Term Recurrent Convolutional Networks for Visual Recognition and Description</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 
+  link: 
+
+- paper: A. Graves, A. Mohamed, and G. Hinton. <b>Speech Recognition with Deep Recurrent Neural Networks</b>. ICASSP 2013.
+  date: 
+  link: 
+
+- paper: Maji, Subhransu, et al. <b>Fine-Grained Visual Classification of Aircraft</b>. arXiv preprint arXiv:1306.5151 (2013).
+  date: 
+  link: http://arxiv.org/pdf/1306.5151.pdf
+
+- paper: A. Karpathy et al. <b>Large-scale Video Classification with Convolutional Neural Networks</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014.
+  date: 
+  link: 
+
+- paper: M. S. Ryoo and J. K. Aggarwal. <b>Stochastic Representation and Recognition of High-level Group Activities</b>. International Journal of Computer Vision (IJCV) 2011.
+  date: 
+  link: 
+
+- paper: J. M. Siskind. <b>Grounding the Lexical Semantics of Verbs in Visual Perception using Force Dynamics and Event Logic</b>. JAIR 2001.
+  date: 
+  link: 
+
+- paper: Heng Wang, Cordelia Schmid. <b>Action Recognition with Improved Trajectories</b>. IEEE International Conference on Computer Vision (ICCV) 2013.
+  date: 
+  link: 
+
+- paper: "Flynn, John, et al. <b>DeepStereo: Learning to Predict New Views from the World's Imagery</b>. arXiv preprint arXiv:1506.06825 (2015)."
+  date: 10/13/2015
+  link: http://arxiv.org/pdf/1506.06825.pdf	
+
+- paper: Liu, Ping, et al. <b>Facial Expression Recognition via a Boosted Deep Belief Network</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014.
+  date: 10/13/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf
+
+- paper: "M. S. Ryoo and J. K. Aggarwal. <b>Spatio-Temporal Relationship Match: Video Structure Comparison for Recognition of Complex Human Activities</b>. IEEE International Conference on Computer Vision (ICCV) 2009."
+  date: 10/13/2015
+  link: http://michaelryoo.com/papers/iccv09_activity_ryoo.pdf
+
+- paper: Y. Ivanov, and A. Bobick. <b>Recognition of Visual Activities and Interactions by Stochastic Parsing</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2000.
+  date: 10/8/2015
+  link: http://alumni.media.mit.edu/~yivanov/Papers/tpami00/ivanov-tpami00.pdf
+
+- paper: I. Laptev, M. Marszałek, C. Schmid, and B. Rozenfeld. <b>Learning Realistic Human Actions from Movies</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2008.
+  date: 
+  link: 
+
+- paper: Kar, Abhishek, et al. <b>Category-Specific Object Reconstruction from a Single Image</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 10/6/2015
+  link: http://www.cs.berkeley.edu/~akar/categoryshapes.pdf
+
+- paper: Heinly, Jared, et al. <b>Reconstructing the World in Six Days</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 10/6/2015
+  link: http://frahm.web.unc.edu/files/2014/08/cvpr2015-heinly.pdf
+
+- paper: "J. Ng et al., <b>Beyond Short Snippets: Deep Networks for Video Classification</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015."
+  date: 10/6/2015
+  link: http://arxiv.org/pdf/1503.08909v2.pdf
+
+- paper: P. Dollár, V. Rabaud, G. Cottrell, and S. Belongie. <b>Behavior Recognition via Sparse Spatio-Temporal Features</b>. VS-PETS 2005.
+  date: 
+  link: 
+
+- paper: "Simonyan, Karen, and Andrew Zisserman. <b>Very Deep Convolutional Networks for Large-Scale Image Recognition</b>. International Conference on Learning Representations (ICLR) 2015."
+  date: 10/4/2015
+  link: http://arxiv.org/pdf/1409.1556v6.pdf
+
+- paper: D. Tran et al. <b>Learning Spatiotemporal Features with 3D Convolutional Networks</b>. arXiv:1412.0767.
+  date: 10/1/2015
+  link: http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf
+
+- paper: Xie, Saining, et al. <b>Hyper-Class Augmented and Regularized Deep Learning for Fine-Grained Image Classification</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 9/29/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf
+
+- paper: Xiao, Tianjun, et al. <b>The Application of Two-Level Attention Models in Deep Convolutional Neural Network for Fine-Grained Image Classification</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 9/29/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiao_The_Application_of_2015_CVPR_paper.pdf
+
+- paper: "Niebles, Juan Carlos, Hongcheng Wang, and Li Fei-Fei. <b>Unsupervised Learning of Human Action Categories using Spatial-Temporal Words</b>. International Journal of Computer Vision (IJCV) 2008."
+  date: 9/29/2015
+  link: http://vision.stanford.edu/documents/NieblesWangFei-Fei_IJCV2008.pdf
+
+- paper: M. Blank, L. Gorelick, E. Shechtman, M. Irani, and R. Basri. <b>Actions and Space-Time Shapes</b>. IEEE International Conference on Computer Vision (ICCV) 2005.
+  date: 9/29/2015
+  link: http://www.wisdom.weizmann.ac.il/~vision/VideoAnalysis/Demos/SpaceTimeActions/SpaceTimeActions_iccv05.pdf
+
+- paper: I. Laptev. <b>On Space-Time Interest Points</b>. International Journal of Computer Vision (IJCV) 2005.
+  date: 9/24/2015
+  link: https://www.irisa.fr/vista/Papers/2005_ijcv_laptev.pdf
+
+- paper: A. Bobick and J. Davis. <b>The Recognition of Human Movement Using Temporal Templates</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2001.
+  date: 
+  link: 
+
+- paper: N. Oliver, B. Rosario, and A. Pentland. <b>A Bayesian Computer Vision System for Modeling Human Interactions</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2000.
+  date: 
+  link: 
+
+- paper: J. Yamato, J. Ohya, and K. Ishii. <b>Recognizing Human Action in Time-Sequential Images using Hidden Markov Model</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 1992.
+  date: 9/22/2015
+  link: http://www.ee.iisc.ac.in/people/faculty/soma.biswas/STIP_pdf/Yamato-HumanAction.pdf
+
+- paper: "Jiang, Ming, et al. <b>SALICON: Saliency in Context</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015."
+  date: 9/22/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Jiang_SALICON_Saliency_in_2015_CVPR_paper.pdf
+
+- paper: Li, Yin, Zhefan Ye, and James M. Rehg. <b>Delving into Egocentric Actions</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 9/22/2015
+  link: http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_032.pdf
+
+- paper: J. Long, E. Shelhamer, T. Darrell. <b>Fully Convolutional Networks for Semantic Segmentation</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 
+  link: 
+
+- paper: R. Girshick, J. Donahue, T. Darrell, J. Malik. <b>Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014.
+  date: 9/17/2015
+  link: https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf
+
+- paper: C. Szegedy et al. <b>Going Deeper with Convolutions</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 
+  link: https://arxiv.org/pdf/1409.4842v1.pdf
+
+- paper: A. Krizhevsky, I. Sutskever, and G. Hinton. <b>Imagenet Classification with Deep Convolutional Neural Networks</b>. Advances in Neural Information Processing Systems (NIPS) 2012.
+  date: 9/15/2015
+  link: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+- paper: Dosovitskiy, Alexey, Jost Tobias Springenberg, and Thomas Brox. <b>Learning to Generate Chairs with Convolutional Neural Networks</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015.
+  date: 9/15/2015
+  link: http://arxiv.org/pdf/1411.5928.pdf
+
+- paper: Karpathy, Andrej, Justin Johnson, and Li Fei-Fei. <b>Visualizing and Understanding Recurrent Networks</b>. arXiv preprint arXiv:1506.02078 (2015).
+  date: 9/15/2015
+  link: http://arxiv.org/pdf/1506.02078v1.pdf
+
+- paper: P. Felzenszwalb,  D.  McAllester and D. Ramanan. <b>A Discriminatively Trained, Multiscale, Deformable Part Model</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2008.
+  date: 9/10/2015
+  link: http://cs.brown.edu/~pff/papers/latent.pdf
+
+- paper: Venugopalan, Subhashini, et al. <b>Sequence to Sequence - Video to Text</b>. IEEE International Conference on Computer Vision (ICCV) 2015.
+  date: 9/8/2015
+  link: http://arxiv.org/abs/1505.00487
+
+- paper: "Zhu, Yukun, et al. <b>ALigning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books</b>. IEEE International Conference on Computer Vision (ICCV) 2015."
+  date: 9/8/2015
+  link: http://arxiv.org/abs/1506.06724
+
+- paper: P. Gehler and S. Nowozin. <b>On Feature Combination for Multiclass Object Classification</b>. IEEE International Conference on Computer Vision (ICCV) 2009.
+  date: 9/8/2015
+  link: http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/PID953627_5937[0].pdf
+
+- paper: N. Dalal and B. Triggs. <b>Histograms of Oriented Gradients for Human Detection</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2005.
+  date: 9/8/2015
+  link: https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf
+
+- paper: "Y. Jia, C. Huang, and T. Darrell. <b>Beyond Spatial Pyramids: Receptive Field Learning for Pooled Image Features</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012."
+  date: 9/3/2015
+  link: http://daggerfs.com/assets/pdf/cvpr12_pooling.pdf
+
+- paper: "S. Lazebnik, C. Schmid, and J. Ponce. <b>Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2006."
+  date: 9/3/2015
+  link: http://www.di.ens.fr/sierra/pdfs/cvpr06b.pdf
+
+- paper: "J. Sivic and A. Zisserman. <b>Video Google: A Text Retrieval Approach to Object Matching in Videos</b>. IEEE International Conference on Computer Vision (ICCV) 2003."
+  date: 9/1/2015
+  link: http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf
+
+- paper: "Lowe, David G. <b>Distinctive Image Features from Scale-Invariant Keypoints</b>. International Journal of Computer Vision (IJCV) 2004."
+  date: 9/1/2015
+  link: https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
+
+- paper: "Snavely, Noah, Steven M. Seitz, and Richard Szeliski. <b>Modeling the World from Internet Photo Collections</b>. International Journal of Computer Vision (IJCV) 2008."
+  date: 4/27/2015
+  link: http://phototour.cs.washington.edu/ModelingTheWorld_ijcv07.pdf
+
+- paper: "LeCun, Yann, et al. <b>Gradient-Based Learning Applied to Document Recognition</b>. Proceedings of the IEEE 86.11 (1998)"
+  date: 4/20/2015
+  link: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+
+- paper: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. <b>Imagenet Classification with Deep Convolutional Neural Networks</b>. Advances in Neural Information Processing Systems (NIPS) 2012.
+  date: 4/20/2015
+  link: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+- paper: "Deng, Jia, et al. <b>ImageNet: A Large-Scale Hierarchical Image Database</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2009."
+  date: 
+  link: http://imagenet.stanford.edu/papers/imagenet_cvpr09.pdf
+
+- paper: Le Cun, B. Boser, et al. <b>Handwritten Digit Recognition with a Back-Propagation Network</b>. Advances in Neural Information Processing Systems (NIPS) 1990.
+  date: 4/20/2015
+  link: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2C76BF89891D754DD70BFD08D8B1D898?doi=10.1.1.32.5076&rep=rep1&type=pdf
+
+- paper: "Turk, Matthew, and Alex Pentland. <b>Eigenfaces for Recognition.</b> Journal of Cognitive Neuroscience 1991."
+  date: 4/13/2015
+  link: http://www.face-rec.org/algorithms/PCA/jcn.pdf
+
+- paper: Crandall, David, Pedro Felzenszwalb, and Daniel Huttenlocher. <b>Object Recognition by Combining Appearance and Geometry</b>. Toward Category-Level Object Recognition, 2007.
+  date: 4/13/2015
+  link: http://www.cs.indiana.edu/~djcran/papers/kfan06lncs.pdf
+
+- paper: Dalal, Navneet, and Bill Triggs. <b>Histograms of Oriented Gradients for Human Detection</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2005.
+  date: 4/6/2015
+  link: https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf
+
+- paper: Nister, David, and Henrik Stewenius. <b>Scalable Recognition with a Vocabulary Tree</b>. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2006.
+  date: 3/30/2015
+  link: http://www.vis.uky.edu/~stewe/publications/nister_stewenius_cvpr2006.pdf
+
+- paper: "Xiao, Jianxiong, et al. <b>Sun Database: Exploring a Large Collection of Scene Categories</b>. International Journal of Computer Vision (IJCV) 2014."
+  date: 3/23/2015
+  link: http://vision.princeton.edu/projects/2010/SUN/paperIJCV.pdf
+
+- paper: "Hoiem, Derek, Alexei A. Efros, and Martial Hebert. <b>Putting Objects in Perspective</b>. International Journal of Computer Vision (IJCV) 2008."
+  date: 3/9/2015
+  link: http://web.engr.illinois.edu/~dhoiem/publications/ijcv2008ObjectsInPerspective.pdf
+
+- paper: Szeliski, Richard, and Heung-Yeung Shum. <b>Creating Full View Panoramic Image Mosaics and Environment Maps</b>. ACM Computer Graphics and Interactive Techniques (SIGGRAPH) 1997.
+  date: 3/2/2015
+  link: http://faculty.cse.tamu.edu/jchai/csce641/szeliskiShum97.pdf
+
+- paper: "Shi, Jianbo, and Jitendra Malik. <b>Normalized Cuts and Image Segmentation</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2000."
+  date: 2/23/2015
+  link: https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf
+
+- paper: "Lowe, David G. <b>Distinctive Image Features from Scale-Invariant Keypoints</b>. International Journal of Computer Vision (IJCV) 2004."
+  date: 2/16/2015
+  link: http://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
+
+- paper: Lowe, David G. <b>Object Recognition from Local Scale-Invariant Features</b>. IEEE International Conference on Computer Vision (ICCV) 1999.
+  date: 2/16/2015
+  link: http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf
+
+- paper: "Canny, John. <b>A Computational Approach to Edge Detection.</b> IEEE Transactions on Pattern Analysis and Machine Intelligence 6 (TPAMI) 1986."
+  date: 2/9/2015
+  link: http://www.csee.wvu.edu/~xinl/library/papers/comp/canny1986.pdf
+
+- paper: Debevec, Paul E., and Jitendra Malik. <b>Recovering High Dynamic Range Radiance Maps from Photographs</b>. ACM SIGGRAPH 2008 classes. ACM, 2008.
+  date: 2/9/2015
+  link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.463.6496&rep=rep1&type=pdf
+
+- paper: "Wells, William M. <b>Efficient Synthesis of Gaussian Filters by Cascaded Uniform Filters</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 1986."
+  date: 2/6/2015
+  link: 
+
+- paper: "Wallace, Gregory K. <b>The JPEG Still Picture Compression Standard</b>. IEEE Transactions on Consumer Electronics 38.1 (1992)"
+  date: 2/2/2015
+  link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.336.8061&rep=rep1&type=pdf
+
+- paper: Qi Shan, Jiaya Jia, and Aseem Agarwala. <b>High-quality Motion Deblurring from a Single Image</b>. ACM Transactions on Graphics (TOG) 2008.
+  date: 1/26/2015
+  link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.6835&rep=rep1&type=pdf
+
+- paper: "Tian Zhang, Raghu Ramakrishnan, and Miron Livny. <b>BIRCH: An Efficient Data Clustering Method for Very Large Databases</b>. ACM SIGMOD Conference 1996."
+  date: 12/4/2014
+  link: http://www.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf
+
+- paper: Norbert Zeh. <b>I/O-Efficient Graph Algorithms</b>. EEF Summer School on Massive Data Sets (2002).
+  date: 11/25/2014
+  link: http://cs.au.dk/~large/ioS05/Znotes.pdf

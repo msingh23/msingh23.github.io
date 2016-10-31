@@ -1,0 +1,124 @@
+- showcase: yes
+  uniqueid: Master Thesis
+  name: Landmark Recognition
+  tagline: Tag Selection and Propagation for Large Scale Visual Landmark Recognition.
+  image: landmark.jpg
+  time: January - May 2016
+  tools: C++, Python, Caffe
+  tags:
+    - Computer Vision
+    - Deep Learning
+    - Image Classification
+    - Fine-Grained Recognition
+    - Data Mining
+  description: "We consider the problem of recognizing popular landmarks in large-scale datasets of unconstrained social images by formulating a classification problem involving nearly one million images.
+In this work we emphasize a “large scale” data driven approach which differentiates it from many approaches which consider relatively small datasets and classification tasks." 
+  links:
+    - name: PDF
+      link: /assets/thesis.pdf
+    - name: Poster
+      link: /assets/poster.pdf
+
+- showcase: yes
+  uniqueid: bird-squirrel
+  name: Bird and Squirrel Alert System
+  tagline: A system to recognize birds and squirrel on a bird-feeder from video.
+  image: bird-squirrel.png
+  time: Apr - May 2015
+  tools: C++, OpenCV
+  tags:
+    - Computer Vision
+    - Object Recognition
+    - Object Localization
+  description: "We developed a system to automatically recognize and locate birds and squirrel on a bird-feeder from continous video input. We use optical flow, motion detection, and tracking."
+  links:
+    - name: Video
+      link: https://www.youtube.com/watch?v=rSM-4fKla88
+
+- showcase: no
+  uniqueid: microsoft-malware
+  name: Kaggle Microsoft Malware Classification Challenge
+  tagline: A machine learning model to classify 0.5 terabytes of malware programs.
+  image: microsoft-malware.jpg
+  time: Apr - May 15
+  tools: C++, Python, XGBoost, sk-learn  
+  tags:
+    - Machine Learning
+    - Classification
+  description: "We trained a machine learning model using XGBoost, sk-learn to classify malware source code into 9 classes. Extracted features based on byte 4-grams frequency and instruction count."
+
+  links:
+    - name: PDF
+      link: /assets/malware.pdf
+
+
+
+- showcase: yes
+  uniqueid: Product Recognition
+  name: Visual Search Provider for retailers and brands
+  tagline: A Convolutional Neural Network model to recognize consumer products. 
+  image: product.jpg
+  time: Aug - Dec 15
+  tools: C++, Python, Caffe, sk-learn 
+  tags:
+    - Computer Vision
+    - Deep Learning
+    - Image Classification
+  description: "We collect product catalog images from various public available online retailer platform such as Sears, Bestbuy and manually label/annotate them. We fine-tune pre-trained CNN models and use them as feature extractors to train SVMs."
+
+
+- showcase: no
+  uniqueid: beacons
+  name: Smart stores using beacons
+  tagline: Digital platform for location based information exchange using iBeacons.
+
+  image: beacon.jpg
+  time: May - July 16
+  tools: Rest, Hibernate, Spring
+  tags:
+    - Software Development
+    
+  description: "Build a platform using indoor location based services from beacons to identify precise range and proximity of items. The items are located in indoor locations such as a consumer items in a retails store. Generated event based on user location and preferences. The goal was to provide this platform for both consumers and operation team. The outcome of the project was a client/server based architecture for all services and mobile applications for android, IOS."
+
+- showcase: no
+  uniqueid: bittorrent
+  name: BitTorrent Client
+  tagline: An implementation of BitTorrent Protocol Specification. 
+  time: Oct - Nov 14
+  tools: C++, Wireshark
+  tags:
+    - Object Oriented Programming
+    - Software Development
+    - Network Programming
+    - TCP/IP
+  description: "<b>-</b> Implemented an object oriented multi-user BitTorrent client in C++ based on BitTorrent protocol specification, TCP/IP and network programming concepts.<br><b>-</b> Supported N-seeders and N-leechers simultaneously and validated file integrity using SHA1 hash."
+
+- showcase: no
+  uniqueid: portscanner
+  name: Port Scanner
+  tagline: A network security app to scan for open ports in remote hosts. 
+  time: Nov - Dec 14
+  tools: C++, Wireshark
+  tags:
+    - Object Oriented Programming
+    - Software Development
+    - Network Programming
+    - TCP/IP
+  description: "<b>-</b> Built a multi-threaded Port Scanner in C++ to scan for open ports in remote servers for security checks using raw sockets and various TCP/UDP port scanning techniques like SYN, ACK and FIN scans.<br><b>-</b> Implemented various TCP/UDP port scanning techniques including SYN, UDP, ACK, and FIN scans.<br><b>-</b> Identified service version of processes running on remote server by parsing the response of port scans."
+
+# - showcase: no
+#   uniqueid: n-puzzle
+#   name: n-Puzzle Solver
+#   image: n-puzzle.png
+#   tagline: A Java application to solve and evaluate n-puzzle. 
+#   time: Nov - Dec 14
+#   tools: Java
+#   tags:
+#     - Object Oriented Programming
+#     - Software Development
+#     - Parallel Programming
+#   description: "<b>-</b> Developed an object-oriented, multi-threaded 15-puzzle solver (scalable to n-puzzle) using Java and parallel programming.<br><b>-</b> Remodeled the puzzle as a graph search problem and implemented and compared various search techniques like A*, Depth-first and Breadth-first."
+#   links:
+#     - name: PDF
+#       link: /assets/n-puzzle.pdf
+

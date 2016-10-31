@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>http://msingh23.github.io/</link>
+    <description>
+      I am a Computer Vision, Deep Learning and Machine Learning expert.
+    </description>
+    
+        
+            <item>
+                <title>Different Type of Neural Network Architectures</title>
+                <link>http://msingh23.github.io//hello/hi/2016/09/27/different-types-of-neural-network-architectures/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Hello, this is my first post.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/hello/hi/2016/09/27/different-types-of-neural-network-architectures/</guid>
+                <description>
+                    
+                    Different Type of Neural Network Architectures.
+                    
+                </description>
+                <pubDate>Tue, 27 Sep 2016 00:00:00 -0400</pubDate>
+                <author>Manu Singh</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>How to run Caffe on Big Red II</title>
+                <link>http://msingh23.github.io//2016/09/25/how-to-run-caffe-on-big-red-II/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Hello, this is my first post.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2016/09/25/how-to-run-caffe-on-big-red-II/</guid>
+                <description>
+                    
+                    How to run Caffe on Big Red II
+                    
+                </description>
+                <pubDate>Sun, 25 Sep 2016 00:00:00 -0400</pubDate>
+                <author>Manu Singh</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why I decided to learn CUDA</title>
+                <link>http://msingh23.github.io//hello/hi/2016/09/18/why-i-decided-to-learn-CUDA/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Hello, this is my first post.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/hello/hi/2016/09/18/why-i-decided-to-learn-CUDA/</guid>
+                <description>
+                    
+                    Why I decided to learn CUDA.
+                    
+                </description>
+                <pubDate>Sun, 18 Sep 2016 00:00:00 -0400</pubDate>
+                <author>Manu Singh</author>
+            </item>
+        
+    
+  </channel>
+</rss>
